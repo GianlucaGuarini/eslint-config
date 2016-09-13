@@ -1,0 +1,1 @@
+Gianluca Guarini's personal eslint config
