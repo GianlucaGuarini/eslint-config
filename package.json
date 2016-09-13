@@ -1,0 +1,19 @@
+{
+  "name": "@gianlucaguarini/eslint-config",
+  "version": "1.0.0",
+  "description": "Gianluca Guarini's eslint config",
+  "main": ".eslintrc",
+  "scripts": {
+    "test": "echo 'silence is golden'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GianlucaGuarini/eslint-config.git"
+  },
+  "author": "Gianluca Guarini <gianluca.guarini@gmail.com> (http://gianlucaguarini.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GianlucaGuarini/eslint-config/issues"
+  },
+  "homepage": "https://github.com/GianlucaGuarini/eslint-config#readme"
+}
